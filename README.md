@@ -1,1 +1,1 @@
-# Arduino-speech-commands-recognition
+# Arduino speech commands recognition

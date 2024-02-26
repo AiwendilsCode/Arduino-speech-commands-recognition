@@ -1,0 +1,8 @@
+
+#ifndef HYPERPARAMS_H
+#define HYPERPARAMS_H
+
+#define NUM_SEGMENTS 13
+#define NUM_BANDS	 7
+
+#endif HYPERPARAMS_H
